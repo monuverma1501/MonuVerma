@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Monu Verma</h1>
 <h3 align="center">A self motivated, enthusiastic, honest, good learner and having never give up attitude.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsMonuVerma&label=Profile%20views&color=0e75b6&style=flat" alt="itsMonuVerma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monuverma1501&label=Profile%20views&color=0e75b6&style=flat" alt="monuverma1501" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsMonuVerma" alt="itsMonuVerma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monuverma1501" alt="monuverma1501" /></a> </p>
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif"> -->
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -25,9 +25,15 @@
 - 📫 How to reach me **monu.maarula15@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/monu-verma-ab1640204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsrajkumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/monunitjsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@itsrajkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mv_takashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsrajkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monu-verma-ab1640204" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monuverma1501" height="30" width="40" />
+  </a>
+<a href="https://www.hackerrank.com/monunitjsr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monuverma1501" height="30" width="40" />
+  </a>
+<a href="https://www.leetcode.com/mv_takashi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monuverma1501" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,14 +67,14 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monuverma1501&show_icons=true&locale=en&layout=compact" alt="sandeepkumar75" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monuverma1501&show_icons=true&locale=en&layout=compact" alt="monuverma1501" /></p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monuverma1501&show_icons=true&locale=en" alt="sandeepkumar75" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monuverma1501&show_icons=true&locale=en" alt="monuverma1501" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar75&" alt="sandeepkumar75" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monuverma1501&" alt="monuverma1501" />
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
